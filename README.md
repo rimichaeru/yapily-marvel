@@ -38,14 +38,14 @@ _----- (Can also add ?language param with ISO language code to translate the des
 <br>
    
 
-######Swagger Spec
+###### Swagger Spec
 View the Swagger Spec in Swagger UI from this endpoint: http://localhost:8080/swagger-ui.html 
 
 View in Postman by importing the swagger-spec.json as raw text in the marvelapi folder OR view from the endpoint: GET http://localhost:8080/v2/api-docs 
 
 <br>
 
-######Optional - H2 Interactive SQL Console
+###### Optional - H2 Interactive SQL Console
 View the SQL DB and access SQL queries at http://localhost:8080/h2-console/
 _Don't forget to set 'Max rows' at the top to 10,000 to see all of the entries_
 1. On the login page change JDBC URL to jdbc:h2:file:./data/characters
