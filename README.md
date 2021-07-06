@@ -28,7 +28,7 @@ Dependencies used:
 
 3. Run the MarvelapiApplication.java in src/main/java/com.yapily.marvelapi/
 
-4. The H2 SQL DB should already be seeded with all the entries but, if needed, manually update it through GET http://localhost:8080/characters/seed
+4. The H2 SQL DB should already be seeded with all the entries but, if needed, you can update it through GET http://localhost:8080/characters/seed
 
 5. Get all character IDs with GET http://localhost:8080/characters
 
